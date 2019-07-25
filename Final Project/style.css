@@ -1,0 +1,60 @@
+html{
+    background: url(images/background.jpg) no-repeat center fixed; 
+    background-size: cover;
+    font-family: 'Cinzel', serif;
+}
+
+h1{
+    color: white;
+    
+}
+
+p{
+    font-size: 25px;
+    color: white;
+}
+
+
+#Zeus {
+    font-size: 17px;
+    color: white;
+}
+
+#protagonists{
+    font-size: 17px;
+    color: white;
+}
+
+#enemies{
+    font-size: 17px;
+    color: white;
+}
+
+h2{
+    color: white;
+}
+
+#link{
+    color: white;
+    display: none
+}
+
+#Kratos{
+    color: white;
+}
+
+#instructions{
+    color: white;
+}
+
+#search{
+    display: none
+}
+
+#input-name{
+    display: none
+}
+
+#searchBtn{
+    display: none
+}
